@@ -1,2 +1,2 @@
-# this-place-dev-challenge
-This Place Dev Challenge
+# This Place Dev Challenge Bot
+An application to complete the This Place dev challenge without human assistance. 
