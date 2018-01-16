@@ -1,0 +1,20 @@
+{
+  "name": "joesavage1983/this-place-dev-challenge-bot",
+  "type": "project",
+  "description": "An application to complete the This Place dev challenge without human assistance",
+  "homepage": "https://github.com/joesavage1983/this-place-dev-challenge-bot",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joe Savage",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "squizlabs/php_codesniffer": "*",
+    "phpunit/phpunit": "4.1.*",
+    "friendsofphp/php-cs-fixer": "*",
+    "codeception/codeception": "*"
+  }
+}
