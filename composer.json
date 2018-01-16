@@ -13,8 +13,8 @@
   "require": {
     "php": ">=5.3.0",
     "squizlabs/php_codesniffer": "*",
-    "phpunit/phpunit": "4.1.*",
     "friendsofphp/php-cs-fixer": "*",
-    "codeception/codeception": "*"
+    "codeception/codeception": "*",
+    "guzzlehttp/guzzle": "~6.0"
   }
 }
