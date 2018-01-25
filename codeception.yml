@@ -8,3 +8,9 @@ actor_suffix: Tester
 extensions:
     enabled:
         - Codeception\Extension\RunFailed
+coverage:
+    enabled: true
+    remote: false
+    c3_url: 'http://local.dev/this-place-dev-challenge-bot/c3.php'
+    include:
+            - application/*

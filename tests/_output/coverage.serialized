@@ -1,0 +1,954 @@
+<?php
+$coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+$coverage->setData(array (
+  '/vagrant/public/local.dev/this-place-dev-challenge-bot/application/core/challenge.php' => 
+  array (
+    101 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    102 => NULL,
+    111 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    112 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    121 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    122 => NULL,
+    131 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    132 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    141 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    142 => NULL,
+    151 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    152 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    161 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    162 => NULL,
+    171 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    172 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    181 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    182 => NULL,
+    191 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    192 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    201 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    202 => NULL,
+    211 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    212 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    221 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    222 => NULL,
+    231 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    232 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    241 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    242 => NULL,
+    251 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    252 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    260 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    261 => NULL,
+    270 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    271 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    280 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    281 => NULL,
+    290 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    291 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    300 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    301 => NULL,
+    310 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    311 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    322 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    324 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    325 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    328 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    329 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    330 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    331 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    332 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      3 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      4 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      5 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      6 => 'ChallengeTest::testCalculateWordLastQuestion',
+      7 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      8 => 'ChallengeTest::testComplete',
+    ),
+    342 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      2 => 'ChallengeTest::testComplete',
+    ),
+    343 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      2 => 'ChallengeTest::testComplete',
+    ),
+    344 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testExtractQuestionUriFromResponse',
+      2 => 'ChallengeTest::testComplete',
+    ),
+    345 => NULL,
+    352 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    353 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    354 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    355 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    356 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    359 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    364 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    365 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    366 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    368 => 
+    array (
+      0 => 'ChallengeTest::testBegin',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    369 => NULL,
+    376 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    378 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    380 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    381 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    382 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    383 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    385 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    386 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    387 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    388 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    389 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    391 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    392 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    393 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    394 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    395 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    396 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    397 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    398 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    399 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    400 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    401 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    405 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    406 => NULL,
+    413 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    414 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    415 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    416 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    418 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    419 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    421 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    422 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    424 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    425 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    427 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    428 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    429 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    431 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    432 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    434 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    447 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      1 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      2 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      3 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      4 => 'ChallengeTest::testComplete',
+    ),
+    448 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    449 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    450 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      1 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      3 => 'ChallengeTest::testComplete',
+    ),
+    451 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+    ),
+    452 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+    ),
+    453 => 
+    array (
+      0 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+      1 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      2 => 'ChallengeTest::testComplete',
+    ),
+    454 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    455 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    457 => 
+    array (
+      0 => 'ChallengeTest::testCalculateInvalidArithmeticQuestion',
+    ),
+    459 => 
+    array (
+      0 => 'ChallengeTest::testCalculateArithmeticPlusQuestion',
+      1 => 'ChallengeTest::testCalculateArithmeticMinusQuestion',
+      2 => 'ChallengeTest::testCalculateArithmeticTimesQuestion',
+      3 => 'ChallengeTest::testComplete',
+    ),
+    460 => NULL,
+    470 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    472 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    473 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    474 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    475 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    476 => 
+    array (
+    ),
+    479 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    484 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    485 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    486 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    488 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    489 => 
+    array (
+    ),
+    492 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    493 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    495 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    496 => NULL,
+    508 => 
+    array (
+      0 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      1 => 'ChallengeTest::testCalculateWordLastQuestion',
+      2 => 'ChallengeTest::testComplete',
+    ),
+    509 => 
+    array (
+      0 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    510 => 
+    array (
+      0 => 'ChallengeTest::testCalculateWordLastQuestion',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    511 => 
+    array (
+      0 => 'ChallengeTest::testCalculateWordLastQuestion',
+      1 => 'ChallengeTest::testComplete',
+    ),
+    514 => 
+    array (
+      0 => 'ChallengeTest::testCalculateWordFirstQuestion',
+      1 => 'ChallengeTest::testCalculateWordLastQuestion',
+      2 => 'ChallengeTest::testComplete',
+    ),
+    515 => NULL,
+    525 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    527 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    528 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    529 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    530 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    531 => 
+    array (
+    ),
+    534 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    539 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    540 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    541 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    543 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    544 => 
+    array (
+    ),
+    547 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    548 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    550 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    551 => NULL,
+    560 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    562 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    563 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    564 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    566 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    567 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    568 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    569 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    570 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    571 => 
+    array (
+    ),
+    574 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    578 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    580 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    581 => 
+    array (
+    ),
+    582 => 
+    array (
+    ),
+    583 => 
+    array (
+    ),
+    584 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    585 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    586 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    587 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    588 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    589 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    590 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    591 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    592 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    593 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    594 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    595 => 
+    array (
+    ),
+    596 => 
+    array (
+    ),
+    601 => 
+    array (
+    ),
+    604 => NULL,
+    612 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    613 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    614 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    615 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    616 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    617 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    618 => NULL,
+    625 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    626 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+    627 => 
+    array (
+      0 => 'ChallengeTest::testComplete',
+    ),
+  ),
+));
+$coverage->setTests(array (
+  'ChallengeTest::testBegin' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testCalculateArithmeticPlusQuestion' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testCalculateArithmeticMinusQuestion' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testCalculateInvalidArithmeticQuestion' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testCalculateArithmeticTimesQuestion' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testCalculateWordFirstQuestion' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testCalculateWordLastQuestion' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testExtractQuestionUriFromResponse' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'ChallengeTest::testComplete' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setWhitelistedFiles(array (
+  '/vagrant/public/local.dev/this-place-dev-challenge-bot/application/core/challenge.php' => true,
+));
+
+return $coverage;
