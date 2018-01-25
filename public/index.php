@@ -22,7 +22,7 @@ Debugger::enable(Debugger::DEVELOPMENT);
 // Debugger::enable(Debugger::PRODUCTION, __DIR__ . '/../logs');
 
 // Include Codeception c3 file for test coverage
-include ROOT . '../c3.php';
+include ROOT . 'c3.php';
 
 // Load challenge class
 require ROOT . 'application/core/challenge.php';
